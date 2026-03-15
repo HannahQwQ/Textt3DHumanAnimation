@@ -1,0 +1,23 @@
+{
+    "test_prompts_subset": [
+        "A person walks forward, moving arms and legs while looking left and right.#180#001",
+        "A person runs forward, then kicks a soccer ball.#60#002",
+        "A person performs a sit-up, holding their head with both hands.#150#003",
+        "A person plays the piano.#270#004",
+        "A person lies on a bed, reading a book.#180#005",
+        "A person bends down to pick up an object, then stands up straight.#150#006",
+        "A person swings a sword forward.#60#007",
+        "A person attacks, holding a shield in the right hand and a sword in the left.#45#008",
+        "fly a kite.#60#009",
+        "A boy with a beanie wearing black leather shoes walked forward and is picking up his toolbox.#120#010"
+    ],
+
+    "6categories": [
+        "A person walks forward, moving arms and legs while looking left and right.#180#001",
+        "A person runs forward, then kicks a soccer ball.#120#002",
+        "A person does a gentle side stretch..#120#003",
+        "A person bends down to pick up an object, then stands up straight.#150#004",
+        "A person performs a simple ballet arm movement.#60#005",
+        "A person swings a sword forward.#60#006"
+    ]
+}
